@@ -7,8 +7,8 @@ Clustering cryptocurrencies by their performance in different time periods using
 
 This analysis runs on python 3.7 with:
 
-* [Pandas] for data import and organisation
-* [hvplot] to plot the data
+* [pandas](https://github.com/pandas-dev/pandas) for data import and organisation
+* [hvplot](https://github.com/holoviz/hvplot) to plot the data
 * [scikit learn](https://github.com/scikit-learn/scikit-learn) for machine learning
 
 ## Contributors
